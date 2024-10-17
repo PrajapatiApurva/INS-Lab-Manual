@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-5 (vernam cipher encryption and decryption)
+
 def vernam_encrypt(plaintext, key):
     """Encrypts the plaintext using the Vernam cipher with the given key."""
     ciphertext = bytearray(len(plaintext))

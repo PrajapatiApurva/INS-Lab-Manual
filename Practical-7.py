@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-7 (Diffie-Hellman key exchange)
+
 import random 
 P = 13  
 G = 23   

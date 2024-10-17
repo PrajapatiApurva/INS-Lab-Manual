@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-8 (one-time pad encryption and decryption)
+
 import os
 
 def xor_bytes(a, b):

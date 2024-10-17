@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-6 (row-column cipher encryption and decryption)
+
 def row_column_encrypt(plaintext, key):
     """Encrypts the plaintext using the Row-Column cipher with the given key."""
     ciphertext = ['' for _ in range(key)]

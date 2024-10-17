@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-9 (RSA encryption and decryption)
+
 def generate_keys(p, q):
     """Generate public and private keys based on prime numbers p and q."""
     n = p * q

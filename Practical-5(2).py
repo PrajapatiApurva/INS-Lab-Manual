@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-5 (vigenere cipher encryption and decryption)
+
 def vigenere_encrypt(plaintext, key):
     """Encrypts the plaintext using the Vigenère cipher with the given key."""
     key = (key * (len(plaintext) // len(key))) + key[:len(plaintext) % len(key)]

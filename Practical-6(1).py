@@ -1,3 +1,6 @@
+# Subject: INS(Information and Network Security)
+# Practical-6 (rail fence cipher encryption and decryption)
+
 def rail_fence_encrypt(plaintext, key):
     """Encrypts the plaintext using the Rail Fence cipher with the given key."""
     rail = ['' for _ in range(key)]
